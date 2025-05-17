@@ -2,7 +2,7 @@
 
 # Resume Enhancement Suite
 
-A set of Python scripts for enhancing resume texts using various language model APIs. Developed by Kia Gericke as part of ongoing research, this collection demonstrates how to integrate different LLM-based services—DeepSeek, OpenAI GPT-4o-mini, and LlamaAPI—into a CSV-driven pipeline for resume improvement.
+A set of Python scripts for enhancing resume texts using various language model APIs. Developed by Kia Gericke as part of masters thesis research, this collection demonstrates how to integrate different LLM-based services—DeepSeek, OpenAI GPT-4o-mini, and LlamaAPI—into a CSV-driven pipeline for resume enhancement.
 
 ## Repository Contents
 
