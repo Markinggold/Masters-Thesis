@@ -6,17 +6,17 @@ A set of Python scripts for enhancing resume texts using various language model 
 
 ## Repository Contents
 
-* **resume\_enhancer\_deepseek.py**
+* **deepseek\_enhance\_csv.py**
   Enhance resumes via the DeepSeek API using the OpenAI SDK.
   *Author:* Kia Gericke
   *Date:* 13/02/2025
 
-* **resume\_enhancer\_gpt4o.py**
+* **gpt\_enhance\_csv.py**
   Enhance resumes using OpenAI’s GPT-4o-mini via HTTP requests.
   *Author:* Kia Gericke
   *Date:* 13/02/2025
 
-* **resume\_enhancer\_llama.py**
+* **llama\_enhance\_csv.py**
   Enhance resumes with the LlamaAPI (Llama 3.1 8B model), including retry logic.
   *Author:* Kia Gericke
   *Date:* 2025-02-17
