@@ -30,6 +30,9 @@ A set of Python scripts for enhancing resume texts using various language model 
   Create anti-stereotypical resume dataset.
   *Author:* Kia Gericke
   *Date:* 2025-01-27
+  
+* **Dataset Folder**
+  This folder contains the ehanced resumes for each model and base resumes that were used for analysis in this thesis.  
 
 ## Features
 
